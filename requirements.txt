@@ -11,3 +11,4 @@ frontend
 tools
 langchain_core 
 langchain_ollama
+ 

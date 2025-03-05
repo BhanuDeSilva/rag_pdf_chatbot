@@ -1,0 +1,13 @@
+
+langchain>=0.0.265
+langchain-community>=0.0.3
+streamlit>=1.20.0
+langchain-google-genai>=0.1.2
+chromadb>=0.3.29
+python-dotenv>=1.0.0
+pdf2image
+fitz
+frontend
+tools
+langchain_core 
+langchain_ollama

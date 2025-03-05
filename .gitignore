@@ -1,0 +1,5 @@
+.venv/
+pdf
+.env
+temp_files/
+path_to_local_directory
